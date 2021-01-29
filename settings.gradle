@@ -1,0 +1,3 @@
+include ':scale'
+include ':app'
+rootProject.name = "WeightControllerDemo"
